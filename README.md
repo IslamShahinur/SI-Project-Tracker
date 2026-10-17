@@ -1,6 +1,6 @@
-=== SI Project Tracker ===
-==========================================================================================
-Contributors: Shahinur Islam
+=== SI Project Tracker ==
+=======================
+**Contributors: Shahinur Islam**
 Author URI: https://shahinurislam.com/
 Tags: project management, developer notes, google drive, onedrive, progress tracker
 Requires at least: 6.7
@@ -10,9 +10,9 @@ PHP: 8.2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-=====================================================================================================
+===================
 Description 
-======================================================
+===================
 A lightweight WordPress plugin to track personal developer projects with progress percentage, chronological notes, and Google Drive & OneDrive reference documents.
 SI Project Tracker is designed specifically for software developers, agencies, and freelancers managing multiple client projects, mobile apps, WordPress plugins, and web apps.
 
